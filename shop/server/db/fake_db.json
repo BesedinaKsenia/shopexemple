@@ -1,0 +1,127 @@
+{
+  "goods":[
+    {
+      "fk_category":1,
+      "id": 1,
+      "name": "Sweatshirts 1",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":1,
+      "id": 2,
+      "name": "Sweatshirts 2",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":1,
+      "id": 3,
+      "name": "Sweatshirts 3",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":1,
+      "id": 4,
+      "name": "Sweatshirts 4",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":1,
+      "id": 5,
+      "name": "Sweatshirts 5",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":1,
+      "id": 6,
+      "name": "Sweatshirts 6",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":1,
+      "id": 7,
+      "name": "Sweatshirts 7",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":1,
+      "id": 8,
+      "name": "Sweatshirts 8",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 9,
+      "name": "Hoodies 9",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 10,
+      "name": "Нoodies 10",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 11,
+      "name": "Нoodies 11",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 12,
+      "name": "Нoodies 12",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 13,
+      "name": "Нoodies 13",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 14,
+      "name": "Нoodies 14",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 15,
+      "name": "Нoodies 15",
+      "price": "1000 p.",
+      "src": "img/product.png"
+    },
+    {
+      "fk_category":2,
+      "id": 16,
+      "name": "Нoodies 16",
+      "price": "1150 p.",
+      "src": "img/product.png"
+    }
+  ],
+
+  "categories":[
+    {
+      "id": 1,
+      "name": "Women's sweatshirts"
+    },
+    {
+      "id": 2,
+      "name": "Men's hoodies"
+    }
+  ]
+}
